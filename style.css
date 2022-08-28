@@ -1,0 +1,47 @@
+header, body {
+    font-family: Arial Arial Arial;
+}
+.header {
+    border: 10px solid limegreen;
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+}
+
+.form-container {
+    border: 5px solid red;
+    margin: 5px 20px 20px 20px;
+
+}
+
+.my-form {
+    margin: auto;
+}
+
+.form-group {
+    margin: auto;
+    margin-top: 20px;
+}
+
+.details {
+    border: 5px solid blue;
+    margin: 5px 20px 20px 20px;
+}
+
+#destination-details {
+    border: 5px solid pink;
+    padding: 5px 5px 5px 5px;
+    margin: 10px 10px 10px 10px;
+    font-weight: bold;
+}
+
+.empty-box {
+    border: 5px solid yellow;
+    margin: 10px 10px 10px 10px;
+    height: 500px;
+}
+
+.btn {
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-right: auto;
+}
